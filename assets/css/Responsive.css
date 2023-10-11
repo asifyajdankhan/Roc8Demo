@@ -1,0 +1,76 @@
+/* mobile CSS */
+
+@media (max-width: 480px) {
+  .email__text {
+    width: 100% !important;
+  }
+  .button__sigin {
+    width: 100% !important;
+  }
+  .button__login {
+    width: 100% !important;
+  }
+  .form__footertext {
+    font-size: 14px !important;
+  }
+  .form__footer__SignText {
+    font-size: 15px !important;
+  }
+  .form__checkBox {
+    width: 100% !important;
+    margin-left: 2px !important;
+  }
+  .divider {
+    font-size: 15px;
+    margin-left: 0px !important;
+    width: 100% !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .card__one {
+    width: 100% !important;
+    height: 600px;
+    margin-top: 20px;
+  }
+}
+
+/* Tab CSS */
+@media (min-width: 768px) and (max-width: 991px) {
+  .card__one {
+    width: 100% !important;
+    height: 600px;
+  }
+  .email__text {
+    width: 100% !important;
+  }
+  .button__sigin {
+    width: 100% !important;
+  }
+  .button__login {
+    width: 100% !important;
+  }
+  .form__footertext {
+    font-size: 14px !important;
+  }
+  .form__footer__SignText {
+    font-size: 15px !important;
+  }
+  .form__checkBox {
+    width: 100% !important;
+    margin-left: 2px !important;
+  }
+  .divider {
+    font-size: 15px;
+    margin-left: 0px !important;
+    width: 100% !important;
+  }
+}
+
+/* Small Screen Desktop */
+@media (min-width: 992px) and (max-width: 1024px) {
+}
+
+/* Screen Desktop */
+@media (max-width: 1280px) {
+}
